@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data type="simulation">
+    <simulationType>SEGREGATION</simulationType>
+    <inputType>PROBABILITY</inputType>
+    <simulationName>My Segregation Simulation</simulationName>
+    <numRows>40</numRows>
+    <numCols>40</numCols>
+    <state0>.2</state0>
+    <state1>.4</state1>
+    <state2>.4</state2>
+    <param1>.7</param1>
+    <param2>0.50</param2>
+    <param3>0.50</param3>
+</data>
